@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tourplaces/static/css/main.096db386.css",
+    "main.js": "/tourplaces/static/js/main.e2991c86.js",
+    "index.html": "/tourplaces/index.html",
+    "main.096db386.css.map": "/tourplaces/static/css/main.096db386.css.map",
+    "main.e2991c86.js.map": "/tourplaces/static/js/main.e2991c86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.096db386.css",
+    "static/js/main.e2991c86.js"
+  ]
+}
